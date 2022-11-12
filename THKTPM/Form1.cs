@@ -20,6 +20,7 @@ namespace THKTPM
         private void button1_Click(object sender, EventArgs e)
         {
             int a, b, ketqua;
+            int c, f, s, i, h;
            
         }
     }
